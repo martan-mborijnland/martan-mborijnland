@@ -1,6 +1,5 @@
 <h1>Welcome to my profile!</h1>
-
-<br><img alt="car" src="https://github.com/user-attachments/assets/0d767087-a45a-4484-aa07-ca0c34b79d1a" width="320"><br>
+<img alt="car" src="https://github.com/user-attachments/assets/c1599be2-b8a3-42fd-8af8-d734065aba01" width="480">
 
 ## Main account
 <a href="https://github.com/Martan-van-Verseveld">https://github.com/Martan-van-Verseveld</a>
